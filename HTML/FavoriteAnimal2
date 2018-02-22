@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Hafsa Faiz</title>
+         <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    body {
+      font-family:courier;
+    }
+  </style>
+    </head>
+<body>
+    <div style="background-color:brown;">
+      <button type="button" class="btn"><a href="https://en.wikipedia.org/wiki/Turtle">turtle facts</a></button>
+      <button type="button" class="btn"><a href="https://www.worldwildlife.org/species/sea-turtle">sea turtle facts</a></button>
+      <button type="button" class="btn"><a href="https://www.theatlantic.com/science/archive/2016/07/the-turtle-shell-first-evolved-for-digging-not-defence/491087/">why turtles evolved shells</a></button>
+  </div>
+    <div class="jumbotron text-center" style="background-color:brown;">
+      <div class="container">
+         <h1>Turtle</h1>
+         <p>testudines</p>
+      </div>
+      
+  </div>
+  <div>
+ <nav class="navbar navbar-expand-sm bg-light">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="https://hfaiz1.github.io/ecs81718//HTML/FavoriteAnimal.html">Favorite Animal 1</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://hfaiz1.github.io/ecs81718//HTML/practice1.html">Practice 1</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://hfaiz1.github.io/ecs81718//HTML/table1.html">Tables 1</a>
+    </li>
+  </ul>
+</nav>
+<br>
+      </div>
+  <div class="row">
+      <div class="img-thumbnail col-xl-4" style="background-color:grey;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvQn7SSmfJoTQAaKSr8Knh_-aNwzuYhZ9aWddIHr0ikYD2dxS">
+          <p>This is another tiny baby turtle that you can buy and keep as a pet</p>
+      </div>
+      <div class="img-thumbnail col-xl-4" style="background-color:grey;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Green_Sea_Turtle_grazing_seagrass.jpg/220px-Green_Sea_Turtle_grazing_seagrass.jpg">
+          <p>Sea turtles are more prevalent in the wild than as pets.</p>
+      </div>
+      <div class="img-thumbnail col-xl-4" style="background-color:grey;">
+          <img style="width: 250px;" src="https://vignette.wikia.nocookie.net/austinally/images/1/15/O-TURTLE-facebook.jpg/revision/latest?cb=20141023090836">
+          <p>This is a cute small turtle eating a strawberry.</p>
+      </div>
+      
+      
+  </div>
+  <div>
+    <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#demo">Turtle Eating Habits</button>
+  <div id="demo" class="collapse">
+   Turtles can be carnivors, herbivors, and  omnivors. Green sea turtles are on a vegetarian diet and have a mouth specifically for their diet. Some species change eating habits as they age.In a zoological environment all sea turtle species can be maintained on a carnivorous diet.
+  </div>
+    </div>
+  
+    </body>
+</html>
